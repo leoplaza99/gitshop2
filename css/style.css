@@ -533,7 +533,7 @@ body {
 #body .about ul li h3 {
 	background: #070707 url(../images/gradient3.png) repeat-x top center;
 	border: 1px solid #22272a;
-	color: #fff;
+	color: green;
 	font-family: 'Philosopher-Regular';
 	font-size: 24px;
 	font-weight: normal;
@@ -845,4 +845,7 @@ body {
 	padding: 0;
 	text-align: center;
 	text-transform: capitalize;
+}
+p{
+	color:blue;
 }
